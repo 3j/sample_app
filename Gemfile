@@ -29,7 +29,7 @@ group :test do
   gem 'autotest-rails-pure'
   gem 'autotest-fsevent'
   gem 'autotest-growl'
-  gem 'spork'
+  gem 'spork', '0.9.0.rc9'
 end
 
 # To use ActiveModel has_secure_password
